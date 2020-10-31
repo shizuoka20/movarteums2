@@ -1,0 +1,17 @@
+2020/10/14 01:33:13 We didn't manage to check version for a long time, increasing timeout to 4s
+2020/10/14 01:33:13 Checking for updates (current version: <info>v4.20.0</>)
+2020/10/19 20:52:44 Checking for updates (current version: <info>v4.20.0</>)
+2020/10/26 20:41:06 We didn't manage to check version for a long time, increasing timeout to 4s
+2020/10/26 20:41:06 Checking for updates (current version: <info>v4.20.0</>)
+2020/10/26 20:41:17 Update is located at https://github.com/symfony/cli/releases/download/v4.20.1/symfony_windows_amd64.exe
+2020/10/26 20:41:17 Downloading new binary to C:\Users\formation\.symfony\autoupdate\stable\tmp-download463916291.exe
+2020/10/26 20:41:22 Checksums match, continue
+2020/10/26 20:41:22 Detecting binary compression
+2020/10/26 20:41:22 Content-Type detected: application/octet-stream
+2020/10/26 20:41:23 Backuping current binary from C:\Program Files\Symfony\symfony.exe to C:\Users\formation\.symfony\autoupdate\stable\2020-10-26_20-41-23-3f029f1-old
+2020/10/26 20:41:24 Cleaning previous releases
+2020/10/26 20:41:24 Inspecting directory C:\Users\formation\.symfony\autoupdate\stable
+2020/10/26 20:41:24 Found potential backup: 2020-10-26_20-41-23-3f029f1-old
+2020/10/26 20:41:24 Backup confirmed: 2020-10-26_20-41-23-3f029f1-old
+2020/10/26 20:41:24 No backup to delete
+2020/10/31 16:56:09 Checking for updates (current version: <info>v4.20.1</>)

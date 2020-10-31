@@ -1,0 +1,15 @@
+{
+    "dir": "C:\\Users\\formation\\movarteum",
+    "watch": null,
+    "pid": 14836,
+    "port": 0,
+    "scheme": "",
+    "args": [
+        "C:\\wamp64\\bin\\php\\php7.3.12\\php-cgi.exe",
+        "-b",
+        "53568",
+        "-d",
+        "error_log=C:\\Users\\formation\\.symfony\\log\\78c4a8ef994fd09e8264498fc8da51b9e9e8f097.log"
+    ],
+    "name": "PHP-CGI"
+}

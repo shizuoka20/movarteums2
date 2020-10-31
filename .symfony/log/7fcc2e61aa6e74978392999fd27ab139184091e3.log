@@ -1,0 +1,1 @@
+{"level":"warn","source":"server","error":"Passthru script \"/index.php\" does not exist under C:\\Users\\formation\\: CreateFile C:\\Users\\formation\\index.php: Le fichier spécifié est introuvable.","time":"2020-10-31T16:56:17+01:00","message":"unable to detect the front controller, disabling the PHP server"}

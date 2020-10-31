@@ -1,0 +1,5 @@
+{"level":"debug","source":"server","source":"PHP","time":"2020-10-14T01:33:13+02:00","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2020-10-14T01:33:14+02:00","message":"Using PHP version 7.3.12 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.3.12","path":"C:\\wamp64\\bin\\php\\php7.3.12\\php-cgi.exe","port":54679,"time":"2020-10-14T01:33:14+02:00","message":"listening"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-14T01:33:29+02:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-14T01:33:30+02:00","message":"/_wdt/fa0731"}

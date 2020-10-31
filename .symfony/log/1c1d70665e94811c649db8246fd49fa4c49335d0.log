@@ -1,0 +1,14 @@
+{"level":"debug","source":"server","source":"PHP","time":"2020-10-31T16:56:10+01:00","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2020-10-31T16:56:11+01:00","message":"Using PHP version 7.3.12 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.3.12","path":"C:\\wamp64\\bin\\php\\php7.3.12\\php-cgi.exe","port":62227,"time":"2020-10-31T16:56:11+01:00","message":"listening"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T16:57:09+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T16:57:14+01:00","message":"/_wdt/7e9292"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T16:57:17+01:00","message":"/favicon.ico"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:27:01+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:27:04+01:00","message":"/_wdt/203a13"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:28:00+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:28:05+01:00","message":"/_wdt/c85713"}
+{"level":"error","source":"server","ip":"127.0.0.1","status":500,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:31:37+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:31:40+01:00","message":"/_wdt/e1b06c"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:32:05+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2020-10-31T18:32:09+01:00","message":"/_wdt/76f34e"}
