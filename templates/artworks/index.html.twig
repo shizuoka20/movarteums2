@@ -1,0 +1,40 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}artworks{% endblock %}
+
+{% block body %}
+<div class="container">
+<h1>Collect art and design online<h1>
+
+<div class="row">
+    {% for artwork in artworks %}
+        <div class="col-md-4">
+            <div class="card bg-light.mb-3">
+                <div class="card-header.text-center">
+                {{ artwork.firstName }}
+                {{ artwork.LastName }}
+                {{ artwork.imageArtworks}}
+                <img src="/templates/Binder1_Page_1.jpg" alt="Image"
+                    {{ artwork.titleArtwork }}
+                    {{ artwork.price }}€
+                     <strong>59&euro; / nuit</strong> 
+                <small>Pas encore noté</small>
+                </div>
+
+                style="heigh: 200px; width: 100%; display: block">
+
+                <div class="card-body">
+                    <h4 class="card-title">
+                        Superbe appartement!
+                        </h4>
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut id voluptatem iusto doloremque placeat repudiandae. Sequi ipsa incidunt omnis nam beatae culpa, facere nostrum esse? Quos, ipsum eligendi! Ex, vitae.
+                    </p>
+                    <a href="" class="btn btn-secondary">En savoir plus!</a>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+</div>
+{% endblock %}
